@@ -59,7 +59,7 @@ Collect all the batteries before time runs out!
 
 [**Link to Game**](https://watkinhj.github.io/game615-spring2023-03/play/)
 
-[**Source link**][(https://github.com/AlexJ1889/game615-spring2023-03/tree/main/exercise03)](https://github.com/Watkinhj/game615-spring2023-03)
+[**Source link**](https://github.com/Watkinhj/game615-spring2023-03)
 
 **Asset Attribution:**
 Pizza Steve - https://poly.pizza/m/4CV7ybmv9ng
