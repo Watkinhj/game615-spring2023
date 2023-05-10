@@ -25,57 +25,46 @@ ________________________________________________________
 
 ________________________________________________________
  
-**Exercise 2:** _"INSERT NAME"_
+**Exercise 2:** _"Steve Domino Launcher"_
 
-**Individual team:** NAME HERE
+**Individual team:** Watkin Jones
 
 **How to play:** 
-INFO HERE 
+Press Spacebar to launch Steve! 
 
 **Game goal:** 
-INFO HERE
+Launch Steve into the dominos!
 
-[**Playable link to game**](LINK HERE) 
+[**Playable link to game**](https://watkinhj.github.io/game615-spring2023/exercises/exercise02/play/) 
 
-[**Link to source (GitHub page)**](LINK HERE) 
+[**Link to source (GitHub page)**](https://github.com/Watkinhj/game615-spring2023/tree/main/exercises/exercise02)
 
 **Assets Attribution:**
-LINKS
+Pizza Steve - https://poly.pizza/m/4CV7ybmv9ng
 
 ________________________________________________________
 
 
 ________________________________________________________
 
-**Exercise 3:** _"NAME HERE"_
+**Exercise 3:** _"Robo Battery Collector"_
 
-**Group team:** Alex and HongCheng 
+**Group team:** Watkin and Ben
 
 **How to play:** 
-WASD to move, Space to jump. 
+WASD to move
 
 **Game goal:** 
-Obtain 3 pink hearts and discover the 2 hidden audio effects in the game. 
+Collect all the batteries before time runs out!
 
-[**Link to Game**](https://alexj1889.github.io/game615-spring2023-03/exercise03/play/) 
+[**Link to Game**](https://watkinhj.github.io/game615-spring2023-03/play/)
 
-[**Source link**](https://github.com/AlexJ1889/game615-spring2023-03/tree/main/exercise03)
+[**Source link**][(https://github.com/AlexJ1889/game615-spring2023-03/tree/main/exercise03)](https://github.com/Watkinhj/game615-spring2023-03)
 
 **Asset Attribution:**
-Fire Truck by Ivan Klus [CC-BY] via Poly Pizza, 
-Rubber Duck by Poly by Google [CC-BY] via Poly Pizza, 
-Toy train by Jair Trejo [CC-BY] via Poly Pizza, 
-Rolling Pin by Kenney, 
-Videogame Controller by Poly by Google [CC-BY] via Poly Pizza, 
-Crayons by Poly by Google [CC-BY] via Poly Pizza, 
-Astronaut by Poly by Google [CC-BY] via Poly Pizza, 
-Airplane by Poly by Google [CC-BY] via Poly Pizza, 
-Piggy bank by Poly by Google [CC-BY] via Poly Pizza, 
-Basketball by Poly by Google [CC-BY] via Poly Pizza, 
-Apple by Kenney, 
-Peppermint candy by Poly by Google [CC-BY] via Poly Pizza, 
-Candy heart by Poly by Google [CC-BY] via Poly Pizza, 
-Bear by jiang liu [CC-BY] via Poly Pizza
+Pizza Steve - https://poly.pizza/m/4CV7ybmv9ng
+Giant Robot - https://poly.pizza/m/1kbGZOnhOwf
+Battery - https://poly.pizza/m/9gnjbN0VUUn
 
 ________________________________________________________
 
@@ -83,152 +72,142 @@ ________________________________________________________
 ________________________________________________________
 
 
-**Exercise 4:** _"Pιnκy Pλane Sιmuλaτor"_
+**Exercise 4:** _"Flight Sim"_
 
-**Group team:** HongCheng and Alex
+**Group team:** Watkin and Linden
 
 **How to play:** 
-W, A, D to move forward and rotate. 
-Spacebar to increase elevation, S to decrease elevation. 
+WASD To Fly around!
 
 **Game goal:** 
-Collect **8 coins in 2 minutes** to win!
+Fly around and collect all the coins to win!
 
-[**Playable link to game**](https://zhang-ale.github.io/game615-spring2023/exercises/exercise04/play/) 
+[**Playable link to game**](https://lindenkillam.github.io/game615-spring2023/exercises/exercise04/play/)
 
-[**Link to source (GitHub page)**](https://github.com/Zhang-Ale/game615-spring2023/tree/main/exercises/exercise04) 
-
-________________________________________________________
-
-
-________________________________________________________
-
-**Exercise 5:** _"Coffee run"_
-
-**Group team:** HongCheng, MingHeng and Justin
-
-**How to play:** 
-WASD to move, LeftShift to sprint, Space to jump. 
-
-**Game goal:** 
-Get as many Starbucks coffee as you can! Once you get a coffee, the Starbucks King will start chasing you! Avoid getting captured by the Starbucks King!  
-
-**Special feature:** 
-Try to press the Sprint input many times to see what happens. 
-
-[**Playable link to game**](https://zhang-ale.github.io/game615-spring2023/exercises/exercise05/play/) 
-
-[**Link to source (GitHub page)**](https://github.com/Zhang-Ale/game615-spring2023/tree/main/exercises/exercise05) 
+[**Link to source (GitHub page)**](https://github.com/lindenkillam/game615-spring2023-04)
 
 **Asset Attribution:**
-Coffee cup by Poly by Google [CC-BY] via Poly Pizza
-
+Building 1 - https://poly.pizza/m/ppwtREejXg
+Building 2 - https://poly.pizza/m/yKo7F36Qk2
+Building 3 - https://poly.pizza/m/3IhrYZp6tP
+Building 4 - https://poly.pizza/m/7zyZfQrt3ZP
 
 ________________________________________________________
 
 
 ________________________________________________________
 
+**Exercise 5:** _"House Tour"_
 
-**Exercise 06:** _"Feast competition"_
- 
-**Group team:** Sara and HongCheng
+**Group team:** Watkin and Olubunmi
 
 **How to play:** 
-Left mouse click to move. 
+WASD to move.
 
 **Game goal:** 
-Play as a vampire and collect more **brains** than the zombies. 
+Collect all the coins around the girl's house!
 
-[**Playable link to game**](https://SaraHashemii.github.io/game615-spring2023-06/exercise06/play/)
- 
-[**Source link**](https://github.com/SaraHashemii/game615-spring2023-06/tree/main/exercise06)
- 
-**Asset Attribution:**
-Brain by Poly by Google [CC-BY] via Poly Pizza, 
-Low-Poly Park assest by Thunderent from Unity asset store. 
+[**Playable link to game**](https://watkinhj.github.io/game615-spring2023-05/Exercise05/play/)
+
+[**Link to source (GitHub page)**](https://github.com/Watkinhj/game615-spring2023-05)
 
 ________________________________________________________
 
 
 ________________________________________________________
 
-**Midterm:** _"Rhythm game"_
 
-**Student:** HongCheng Zhang
+**Exercise 06:** _"Robo Rush"_
+ 
+**Group team:** Watkin and Justin
 
 **How to play:** 
-Press the keyboard buttons to play. 
+WASD to move. 
+
+**Game goal:** 
+Play as a robot and collect more batteries than the others!
+
+[**Playable link to game**](https://watkinhj.github.io/game615-spring2023-06/Exercise06/play/)
+ 
+[**Source link**](https://github.com/Watkinhj/game615-spring2023-06)
+
+________________________________________________________
+
+
+________________________________________________________
+
+**Midterm:** _"City Drive"_
+
+**Student:** Watkin
+
+**How to play:** 
+WASD to drive!
 
 **Game goal:**
-Hit as many point as you can! 
+Drive around town, collecting flags, and evading pedestrians!
 
-**Game reference:** 
-Genshin Impact's rhythm game ([**Video link**](https://youtu.be/1SY0WK3TPq0))
-
-[**Playable link to game**](https://zhang-ale.github.io/game615-spring2023-midterm/play/)
+[**Playable link to game**](https://watkinhj.github.io/game615-spring2023-midterm/midterm/play/)
  
-[**Source link**](https://github.com/Zhang-Ale/game615-spring2023-midterm/tree/main/)
+[**Source link**](https://github.com/Watkinhj/game615-spring2023-midterm)
 
 ________________________________________________________
 
 
 ________________________________________________________
 
-**Exercise 07:** _"Narration try"_
+**Exercise 07:** _"Shoot-A-Steve"_
 
-**Group team:** HongCheng Zhang, Yihua Pu
+**Group team:** Watkin and Kayla
 
 **How to play:** 
-WD to move, I to interact, Space to jump and continue dialogue. 
+Mouse to look around, click to fire!
 
 **Game goal:**
-Speak with the NPC. 
+Shoot all of the pizza steves to win! Oh, and don't turn around.
 
-[**Playable link to game**](https://zhang-ale.github.io/game615-spring2023-07/build)
+[**Playable link to game**](https://watkinhj.github.io/game615-spring2023-07/Exercise07/play/)
 
-[**Source link**](https://github.com/Zhang-Ale/game615-spring2023-07/tree/main/)
-
-**Plugin:** [**Ink-Unity plugin**](https://github.com/inkle/ink-unity-integration)
-
-________________________________________________________
+[**Source link**](https://github.com/Watkinhj/game615-spring2023-07)
 
 
 ________________________________________________________
 
-**Exercise 08:** _"The room"_
+
+________________________________________________________
+
+**Exercise 08:** _"Chess Simulator"_
  
-**Group team:** Linden Killam, Hongcheng Zhang
+**Group team:** Watkin and Adam
 
 **How to play:** 
-WASD to move, left-mouse click to click the button. 
+Left click to select
+
+Right click to move
+
+Select a piece and press spacebar to capture it.
 
 **Game goal:** 
-Collect keys to open the keyholes.
+It's couch co-op chess! Move the pieces like you're playing a game of chess!
 
-[**Playable link to game**](https://lindenkillam.github.io/game615-spring2023-08/exercise08/play/) 
+[**Playable link to game**](https://watkinhj.github.io/game615-spring2023-08/exercise08/play/) 
 
-[**Source link**](https://github.com/lindenkillam/game615-spring2023-08/tree/main/exercise08) 
+[**Source link**](https://github.com/Watkinhj/game615-spring2023-08) 
 
-**Asset Attribution:**
-Keyhole by Poly by Google [CC-BY] via Poly Pizza (different versions)<br>
-Key by Quaternius (several versions)<br>
-Pizza Steve by Stephen Myer [CC-BY] via Poly Pizza<br>
 ________________________________________________________
 
 
 ________________________________________________________
 
-**Final:** _"Game name"_
+**Final:** _"NetRunner"_
 
-**Student:** Olubunmi Adeloye, HongCheng Zhang. 
+**Student:** Watkin, Justin, Linden, and Ben 
 
 **How to play:** 
-WASD to move, Space to jump, etc.. 
+WASD to move, Space to jump, CTRL to Slide. Follow the ingame tutorial to learn how to Wallrun!
 
 **Game goal:**
-Complete the quest from the King. 
+You are a hacker, tasked with obtaining a precious file. Dive into the program, run to collect all the keys, and collect the file!
 
-[**Playable link to game**]()
+[**Playable link to game**](https://watkinhj.github.io/game615-spring2023-final/final/play/)
  
-[**Source link**](https://github.com/Zhang-Ale/game615-spring2023-final/tree/main/)
+[**Source link**](https://github.com/Watkinhj/game615-spring2023-final)
